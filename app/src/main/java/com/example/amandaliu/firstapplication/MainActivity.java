@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mText = (TextView)this.findViewById(R.id.text);
-        mText.setText("1234567891011");
+        mText.setText("123456789101");
         mText.setTextColor(Color.RED);
         mText.setTextSize(30);
     }
